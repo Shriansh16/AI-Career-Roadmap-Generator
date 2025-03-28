@@ -43,6 +43,7 @@ graph TD
     F --> G[Resource Finder Agent]
     G --> H[Roadmap Generator Agent]
     H --> I[Markdown Output]
+    I --> J((End))
 
 ## How It Works
 
