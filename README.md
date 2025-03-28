@@ -43,7 +43,7 @@ graph TD
     F --> G[Resource Finder Agent]
     G --> H[Roadmap Generator Agent]
     H --> I[Markdown Output]
-    I --> J((End))
+```
 
 ## How It Works
 
@@ -97,10 +97,12 @@ Follow these steps to set up and run the application:
 3. Install dependencies:
   ```bash
   pip install -r requirements.txt
+  ```
 
 4. Run the application:
   ```bash
   streamlit run app.py
+  ```
 
 5. Access the application:
 
