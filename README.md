@@ -6,7 +6,6 @@ This tool bridges the gap between current qualifications and dream careers using
 
 🎥 Watch Demo Video: https://drive.google.com/file/d/1okG1fc7V82xNANaJsDiaJd4wmxsa5d9O/view?usp=sharing             
 
-This tool bridges the gap between current qualifications and dream careers using cutting-edge AI technologies.
 
 ## Key Features
 
