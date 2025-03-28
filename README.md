@@ -2,6 +2,10 @@
 
 **A multi-AI agent powered application that analyzes resumes and generates personalized career roadmaps to help users achieve their professional goals.**
 
+This tool bridges the gap between current qualifications and dream careers using cutting-edge AI technologies.      
+
+🎥 Watch Demo Video: https://drive.google.com/file/d/1okG1fc7V82xNANaJsDiaJd4wmxsa5d9O/view?usp=sharing             
+
 This tool bridges the gap between current qualifications and dream careers using cutting-edge AI technologies.
 
 ## Key Features
