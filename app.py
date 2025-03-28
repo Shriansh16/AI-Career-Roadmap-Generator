@@ -2,7 +2,7 @@ import PyPDF2
 from crewai import Agent, Task, Crew, Process
 import streamlit as st
 from langchain_openai import ChatOpenAI
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 import os
 from datetime import datetime
 from crewai_tools import SerperDevTool
@@ -11,9 +11,9 @@ from crewai_tools import SerperDevTool
 #load_dotenv()
 llm = ChatOpenAI(
     model="gpt-4o-mini",  
-    openai_api_key=st.secrets["OPENAI_API_KEY"]
+    openai_api_key=os.getenv("OPENAI_API_KEY")
 )
-SERPER_API_KEY = st.secrets["SERPER_API_KEY"]
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
 os.environ['SERPER_API_KEY'] = SERPER_API_KEY
 # PDF text extraction function
 def input_pdf_text(uploaded_file):

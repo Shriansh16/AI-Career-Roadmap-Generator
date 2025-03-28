@@ -4,4 +4,3 @@ crewai_tools
 streamlit
 langchain-openai
 python-dotenv
-pysqlite3-binary==0.5.1
