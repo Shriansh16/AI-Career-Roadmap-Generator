@@ -1,6 +1,5 @@
 PyPDF2
 crewai
-crewai[tools]
 streamlit
 langchain-openai
 python-dotenv
