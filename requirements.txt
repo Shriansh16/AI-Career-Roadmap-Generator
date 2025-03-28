@@ -4,3 +4,5 @@ crewai_tools
 streamlit
 langchain-openai
 python-dotenv
+chromadb>=0.4.15
+pysqlite3-binary
